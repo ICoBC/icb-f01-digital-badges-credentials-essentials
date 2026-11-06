@@ -1,0 +1,33 @@
+{
+  "course_id": "ICB-F01",
+  "repository": "icb-f01-digital-badges-credentials-essentials",
+  "repository_url": "https://github.com/ICoBC/icb-f01-digital-badges-credentials-essentials",
+  "title": "Digital Badges and Credentials Essentials",
+  "subtitle": "What badges, micro-credentials and verifiable credentials are, and what makes one worth trusting.",
+  "version": "1.0.0",
+  "series": "Foundation",
+  "skill": "Credential design",
+  "level": "1",
+  "level_name": "Contribute",
+  "stage": "K",
+  "stage_name": "Knowledge",
+  "alignment_code": "ICSF-CRDS-L1-K",
+  "badge_name": "Digital Badges and Credentials Essentials (Knowledge, L1)",
+  "hours": "3",
+  "language": "en-GB",
+  "licence": "CC BY 4.0",
+  "licensor": "International Council on Badges and Credentials e.V.",
+  "web": "https://academy.icobc.net/courses/icb-f01/",
+  "parts": [
+    "About this course",
+    "Why recognition goes digital",
+    "Anatomy of a credential",
+    "Earner, issuer, verifier: three views of one credential",
+    "Types and terms: badge, micro-credential, certificate, verifiable credential",
+    "What makes a credential meaningful",
+    "Assessment and badge",
+    "Sources and further reading"
+  ],
+  "final_questions": 12,
+  "practice_questions": 22
+}
